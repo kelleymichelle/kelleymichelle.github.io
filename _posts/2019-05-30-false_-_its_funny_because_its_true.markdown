@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**!False - It's funny because it's true**"
-date:       2019-05-31 00:44:57 +0000
+date:       2019-05-30 20:44:57 -0400
 permalink:  false_-_its_funny_because_its_true
 ---
 
