@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "def Gotta_catch_'em_all"
+title:      "Nerd Alert- Pokemon CLI project"
 date:       2019-07-06 23:52:32 -0400
 permalink:  def_gotta_catch_em_all
 ---
