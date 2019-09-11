@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Reflections through Shotgun's Glass"
-date:       2019-09-11 03:57:51 +0000
+date:       2019-09-10 23:57:52 -0400
 permalink:  reflections_through_shotguns_glass
 ---
 
