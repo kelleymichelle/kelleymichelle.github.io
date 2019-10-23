@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Committing a Potential Disaster to Github"
-date:       2019-10-23 13:48:38 +0000
+date:       2019-10-23 09:48:39 -0400
 permalink:  committing_a_potential_disaster_to_github
 ---
 
