@@ -20,10 +20,10 @@ I spent 2 whole days figuring out how to make a tile flip over individually and 
 
 Learning "Vanilla" Javascript has at least made me feel like less of a fraud. I can say that I can code now and not feel the need to mumble over the words completely. I played cheerleader to my special "cOdInGfRiEnD" who was convinced he wasn't grasping the material and I couldnt be more proud at how he rose to the oppurtunity to go above and beyond the learning material presented to make certain he knew what he needed to.  
 
-It's 2020. The Roaring 20s. The 1920's earned it's famous nickname for its freespirited exuberent lifestyle that came with it's pop culture. This year I turn 30. This year I'll graduate school. This year I'm making the biggest move of my life. This year my entire life will change. I can taste it. This is MY year. Bring on the roaring 20's because I'm so ready.
+It's 2020. The Roaring 20s. The 1920's earned it's famous nickname for its freespirited exuberent lifestyle that came with it's pop culture. This year I turn 30. This year I'll graduate school. This year I'm making the biggest move of my life. They say if something doesn't scare you or challenge you, you're probably not dreaming big enough. This year my entire life will change. I can taste it. This is MY year. Bring on the roaring 20's because I'm so ready.
 
 This is the home stretch now. We're almost there. 
 
-// Credit given to bRiCkCoDeBaNgEr for my blog title. Complete forgery right here. What can I say? Go for gold. //
+// Credit given to bRiCkCoDeBaNgEr for my blog title. Complete forgery right there. What can I say? Go for gold. //
 
 
