@@ -8,11 +8,11 @@ permalink:  theres_a_function_for_that
 
 Ah Javascript. First we learned how to create and organize elegant, beautiful code. This elegant code had its own place in a program and was neat and clean and tidy. 
 
-Enter Javascript. Javascript storms in with its curly brackets and semicolons and vomits on your computer screen. You look at it and go 'what the actual fuck is this???' You go from creating partials that were rolled together crisp white socks to a mostly blank html file and a script tag. Inside your javascript "script" is a mess of fUnCtIoNs. Think the rolled crisp white socks vs 3 week old avocado ankle socks with cat hair stuck on the bottom permanently. 
+Enter Javascript. Javascript storms in with its curly brackets and semicolons and vomits on your computer screen. You look at it and go "what the actual eff is this???" You go from creating partials that were rolled together crisp white socks to a mostly blank html file and a script tag. Inside your javascript "script" is a mess of FUNCTIONS. Think the rolled crisp white socks vs 3 week old avocado ankle socks with cat hair stuck on the bottom permanently. 
 
 Everything is now a function. wakeUp(). drinkCoffee(), learnSomeCode(), walkTheDog()... Your life has become one huge function that calls a function inside of a function inside of a function. Reality is just a callback function. There are only functions in your life now. The words and terms you thought you knew have all changed and there's probably a function for it. You are on a new planet and you arrived there via function. 
 
-I started my JS and Rails project 3 weeks early. I decided early on that I needed to create a game for whatever reason. I decided upon a seemingly easy tile matching game. You know the ones- you match 2 pictures and you keep that match. The one's that small children are always losing pieces too and it then becomes useless? Yes, I coded that. 
+I started my JS and Rails project 3 weeks early. I decided early on that I needed to create a game for whatever reason. I decided upon a seemingly easy tile matching game. You know the ones- you match 2 pictures and you keep that match. The one's that small children are always losing pieces to and it then becomes useless? Yes, I coded that. Cool? Cool.
 
 My project is affectionately titled "Matchy-Match". It was actually a lot of fun to make and work through challenges I encountered. A player inputs their name and selects a level. Level selection creates half the tiles needed for that level in the backend. My frontend assigns a cute kitty picture to the back of each tile then clones the tiles so there are 2 exact matches of each one. 
 
